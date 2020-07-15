@@ -45,7 +45,7 @@ const {red,green,blue}=state
 const styles=StyleSheet.create({
     container:{
         alignItems:'center',
-        backgroundColor:'green'
+        backgroundColor:'blue'
     }
 })
 
